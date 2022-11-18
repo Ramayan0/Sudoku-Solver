@@ -1,0 +1,15 @@
+/home/hamsa/Desktop/transft/Sudoku-Solver/bin/Debug/net6.0/Sudoku-Solver
+/home/hamsa/Desktop/transft/Sudoku-Solver/bin/Debug/net6.0/Sudoku-Solver.deps.json
+/home/hamsa/Desktop/transft/Sudoku-Solver/bin/Debug/net6.0/Sudoku-Solver.runtimeconfig.json
+/home/hamsa/Desktop/transft/Sudoku-Solver/bin/Debug/net6.0/Sudoku-Solver.dll
+/home/hamsa/Desktop/transft/Sudoku-Solver/bin/Debug/net6.0/Sudoku-Solver.pdb
+/home/hamsa/Desktop/transft/Sudoku-Solver/obj/Debug/net6.0/Sudoku-Solver.csproj.AssemblyReference.cache
+/home/hamsa/Desktop/transft/Sudoku-Solver/obj/Debug/net6.0/Sudoku-Solver.GeneratedMSBuildEditorConfig.editorconfig
+/home/hamsa/Desktop/transft/Sudoku-Solver/obj/Debug/net6.0/Sudoku-Solver.AssemblyInfoInputs.cache
+/home/hamsa/Desktop/transft/Sudoku-Solver/obj/Debug/net6.0/Sudoku-Solver.AssemblyInfo.cs
+/home/hamsa/Desktop/transft/Sudoku-Solver/obj/Debug/net6.0/Sudoku-Solver.csproj.CoreCompileInputs.cache
+/home/hamsa/Desktop/transft/Sudoku-Solver/obj/Debug/net6.0/Sudoku-Solver.dll
+/home/hamsa/Desktop/transft/Sudoku-Solver/obj/Debug/net6.0/refint/Sudoku-Solver.dll
+/home/hamsa/Desktop/transft/Sudoku-Solver/obj/Debug/net6.0/Sudoku-Solver.pdb
+/home/hamsa/Desktop/transft/Sudoku-Solver/obj/Debug/net6.0/Sudoku-Solver.genruntimeconfig.cache
+/home/hamsa/Desktop/transft/Sudoku-Solver/obj/Debug/net6.0/ref/Sudoku-Solver.dll
